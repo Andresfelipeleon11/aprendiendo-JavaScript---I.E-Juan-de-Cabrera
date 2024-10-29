@@ -19,4 +19,4 @@
 
 ## Cómo interactuar con la consola de JavaScript
 
-<img src ="./imagenes/InteraccionConsola.png" width="250" height="250" alt="Consola Javascript Chrome">
+<img src ="./imagenes/InteraccionConsola.png" width="450" height="450" alt="Consola Javascript Chrome">
