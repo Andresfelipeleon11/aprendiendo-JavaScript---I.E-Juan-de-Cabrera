@@ -78,9 +78,9 @@ en consola.
 </p>
 
 ```javascript
-let nombre = "Andres" // Declaramos la variable
+let nombre = "Andres" // Declaramos la variable.
 
-console.log(nombre) // Eesultado: "Andres"
+console.log(nombre) // Resultado: "Andres".
 ```
 
 
