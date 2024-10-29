@@ -44,9 +44,9 @@
 <h2>Tipos de variables</h2>
 
 ```javascript
-var esMayorDeEdad = true; // Variable que se considera global
-let nombre = "Andres Felipe"; // Variable que se considera local
-const edad = 14; //Variable que se considera constante
+var esMayorDeEdad = true; // 'var' crea una variable de ámbito global o de función (dependiendo de dónde se declare), pero no estrictamente "global"
+let nombre = "Andres Felipe"; // 'let' crea una variable de ámbito de bloque (local al bloque, bucle o instrucción donde se declara)
+const edad = 14; // 'const' crea una variable de ámbito de bloque que es constante, lo que significa que su valor no puede ser reasignado
 ```
 
 
