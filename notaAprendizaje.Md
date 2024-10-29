@@ -109,9 +109,23 @@ console.log(division) // Resultado: 1.92307 ✅
 let residuo = n1 % n2 //Declaramos la variable y sumamos los valores de las variables.
 console.log(residuo) // Resultado: 12 ✅
 
-
 ```
 
+<h2>Ejercicio Práctico ⌨️</h2>
+
+<p><b>2.</b> Declara dos variables, lado1 y lado2, y asígnales un valor entero que represente las dimensiones de un rectángulo. Calcula el área multiplicando ambos lados y muestra el resultado en la consola.
+</p>
+
+```javascript
+
+let lado1 = 5 // Declaramos la variable del primer lado.
+let lado2 = 5 // Declaramos la variable del segundo lado.
+
+let area = lado1 * lado2 // Declaramos la variable y multiplicamos los valores de las variables.
+
+console.log("El area del rectangulo es: " + area) // Resultado: El area del rectangulo es: 25 ✅
+
+```
 
 
     
