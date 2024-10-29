@@ -80,7 +80,7 @@ en consola.
 ```javascript
 let nombre = "Andres" // Declaramos la variable.
 
-console.log(nombre) // Resultado: "Andres".
+console.log(nombre) // Resultado: "Andres" ✅.
 ```
 
 
