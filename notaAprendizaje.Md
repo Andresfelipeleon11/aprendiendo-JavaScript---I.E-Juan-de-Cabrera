@@ -48,9 +48,11 @@
 <h4>Ejemplo</h4>
 
 ```javascript
-var esMayorDeEdad = true; // Crea una variable de ámbito global o de función (dependiendo de dónde se declare), pero no estrictamente "global"
-let nombre = "Andres Felipe"; // Crea una variable de ámbito de bloque (local al bloque, bucle o instrucción donde se declara)
-const edad = 14; // Crea una variable de ámbito de bloque que es constante, lo que significa que su valor no puede ser reasignado
+var esMayorDeEdad = true; // Crea una variable de ámbito global o de función (dependiendo de dónde se declare), pero no estrictamente "global".
+
+let nombre = "Andres Felipe"; // Crea una variable de ámbito de bloque (local al bloque, bucle o instrucción donde se declara).
+
+const edad = 14; // Crea una variable de ámbito de bloque que es constante, lo que significa que su valor no puede ser reasignado.
 ```
 
 
