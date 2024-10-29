@@ -24,7 +24,7 @@
 
 ## Tipos de datos en JavaScript
 
-<p>Existen diferentes tipos de datos en JavaScript, los tipos de datos más comunes son: </p>
+<h3>Existen diferentes tipos de datos en JavaScript, los tipos de datos más comunes son: </h3>
 
  <h2>Númericos</h2>
     <p>En JavaScript, los números pueden ser enteros o decimales (también llamados flotantes). Este tipo de dato se utiliza para realizar operaciones matemáticas.</p>
@@ -33,7 +33,7 @@
     
  <h2>Cadenas de textos </h2>
     <p>En JavaScript, las cadenas de texto son cadenas de caracteres que se pueden usar para almacenar y manipular texto.</p>
-    <p><b>Ejemplo de cadenas de texto con comillas dobles:</b> <code>"Hola, estudiantes!"</code></p>
-    <p><b>Ejemplo de cadenas de texto invertidas: </b> <code>´Hola, estudiantes!´</code></p>
+    <p><b>Ejemplo de cadenas de texto con comillas dobles:</b> <code>"¡Hola, estudiantes!"</code></p>
+    <p><b>Ejemplo de cadenas de texto invertidas: </b> <code>´¡Hola, estudiantes!´</code></p>
     
     
