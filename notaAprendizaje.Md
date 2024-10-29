@@ -13,10 +13,10 @@
 
 ## ¿Qué es Javascript?
 
-<img src ="./imagenes/JavaScript-logo.png" width="250" height="250" >
+<img src ="./imagenes/JavaScript-logo.png" width="250" height="250" alt="Javascript">
 
 <p> Es un lenguaje de programación popular que se utiliza para crear sitios web interactivos y dinámicos. Es el "cerebro" detrás de muchas funciones que vemos en una página web, como cuando un botón cambia de color al hacer clic, un formulario valida nuestros datos, o se muestran gráficos en tiempo real. Aunque suele asociarse con el desarrollo web, JavaScript también puede usarse en otros entornos, como en el desarrollo de aplicaciones móviles y de escritorio, e incluso en el control de dispositivos como drones o robots.</p>
 
 ## Cómo interactuar con la consola de JavaScript
 
-<img src ="./imagenes/InteraccionConsola.png" width="250" height="250" >
+<img src ="./imagenes/InteraccionConsola.png" width="250" height="250" alt="Consola Javascript Chrome">
