@@ -35,5 +35,10 @@
     <p>En JavaScript, las cadenas de texto son cadenas de caracteres que se pueden usar para almacenar y manipular texto.</p>
     <p><b>Ejemplo de cadenas de texto con comillas dobles:</b> <code>"¡Hola, estudiantes!"</code></p>
     <p><b>Ejemplo de cadenas de texto invertidas: </b> <code>´¡Hola, estudiantes!´</code></p>
+
+<h2>Booleanos</h2>
+    <p>En JavaScript, los booleanos son valores que solo pueden ser verdaderos o falsos. Este tipo de dato se utiliza para realizar operaciones logicas.</p>
+    <p><b>Ejemplo de booleanos:</b> <code>true; false;</code></p>
+    
     
     
