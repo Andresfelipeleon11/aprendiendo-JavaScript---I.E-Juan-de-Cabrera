@@ -39,7 +39,6 @@ true // Valor de tipo booleano (verdadero).
 false // Valor de tipo booleano (falso).
 ```
 
-
 <h2>Tipos de variables</h2>
 
 <p>En JavaScript, las variables son espacios de memoria que se utilizan para almacenar valores. Estas variables se pueden crear, modificar y eliminar de la misma manera que las cadenas de texto. </p>
@@ -52,6 +51,24 @@ var esMayorDeEdad = true; // Crea una variable de ámbito global o de función (
 let nombre = "Andres Felipe"; // Crea una variable de ámbito de bloque (local al bloque, bucle o instrucción donde se declara).
 
 const edad = 14; // Crea una variable de ámbito de bloque que es constante, lo que significa que su valor no puede ser reasignado.
+```
+
+<h2>Mostrar valores en consola</h2>
+
+```javascript
+
+//Ejemplo #1
+
+let nombre = "Andres Felipe"; // Variable declarada.
+
+console.log(nombre); // Muestra el valor de la variable en la consola.
+
+//Ejemplo #2
+
+let edad = 23; // Variable declarada.
+
+console.log(edad); // Muestra el valor de la variable en la consola.
+
 ```
 
 
