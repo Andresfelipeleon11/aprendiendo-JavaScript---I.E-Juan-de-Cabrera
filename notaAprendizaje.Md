@@ -40,5 +40,15 @@
     <p>En JavaScript, los booleanos son valores que solo pueden ser verdaderos o falsos. Este tipo de dato se utiliza para realizar operaciones logicas.</p>
     <p><b>Ejemplo de booleanos:</b> <code>true / false;</code></p>
 
+
+<h2>Tipos de variables</h2>
+
+```javascript
+var esMayorDeEdad = true;
+let nombre = "Andres Felipe";
+const edad = 14;
+
+
+
     
     
