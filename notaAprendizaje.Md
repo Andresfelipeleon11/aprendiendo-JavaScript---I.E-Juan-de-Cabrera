@@ -83,6 +83,35 @@ let nombre = "Andres" // Declaramos la variable.
 console.log(nombre) // Resultado: "Andres" ✅.
 ```
 
+<h2>Operadores Aritméticos</h2>
+
+<p>Los operadores aritméticos permiten realizar operaciones aritméticas de suma, resta, multiplicación y división. </p>
+
+```javascript	
+
+
+let n1 = 25 // Declaramos la variable
+
+let n2 = 13 // Declaramos la variable
+
+let suma = n1 + n2 // Declaramos la variable y sumamos los valores de las variables.
+console.log(suma) // Resultado: 38 ✅
+
+let resta = n1 - n2 //Declaramos la variable y sumamos los valores de las variables.
+console.log(resta) // Resultado: 12 ✅
+
+let multiplicacion = n1 * n2 //Declaramos la variable y sumamos los valores de las variables.
+console.log(multiplicacion) // Resultado: 325 ✅
+
+let division = n1 / n2 //Declaramos la variable y sumamos los valores de las variables.
+console.log(division) // Resultado: 1.92307 ✅
+
+let residuo = n1 % n2 //Declaramos la variable y sumamos los valores de las variables.
+console.log(residuo) // Resultado: 12 ✅
+
+
+```
+
 
 
     
