@@ -26,19 +26,18 @@
 
 <h4>Existen diferentes tipos de datos en JavaScript, los tipos de datos más comunes son: </h4>
 
- <h2>Númericos</h2>
-    <p>En JavaScript, los números pueden ser enteros o decimales (también llamados flotantes). Este tipo de dato se utiliza para realizar operaciones matemáticas.</p>
-    <p><b>Ejemplo de números enteros:</b> <code>25;</code></p>
-    <p><b>Ejemplo de números decimales: </b><code>19.99;</code></p>
-    
- <h2>Cadenas de textos </h2>
-    <p>En JavaScript, las cadenas de texto son cadenas de caracteres que se pueden usar para almacenar y manipular texto.</p>
-    <p><b>Ejemplo de cadenas de texto con comillas dobles:</b> <code>"¡Hola, estudiantes!"</code></p>
-    <p><b>Ejemplo de cadenas de texto invertidas: </b> <code>´¡Hola, estudiantes!´</code></p>
+ ```javascript
+23; // Valor númerico entero.
 
-<h2>Booleanos</h2>
-    <p>En JavaScript, los booleanos son valores que solo pueden ser verdaderos o falsos. Este tipo de dato se utiliza para realizar operaciones logicas.</p>
-    <p><b>Ejemplo de booleanos:</b> <code>true / false;</code></p>
+2.34; // Valor númerico decimal.
+
+"¡Hola, Estudiantes!"; // Cadena de texto con comillas dobles.
+`¡Hola, Estudiantes!` // Cadena de texto con comillas invertidas.
+
+true // Valor de tipo booleano (verdadero).
+
+false // Valor de tipo booleano (falso).
+```
 
 
 <h2>Tipos de variables</h2>
