@@ -28,10 +28,8 @@
 
 <p> Los tipos de datos en JavaScript y más comunes son:</p>
 
-<ul>
-<li>Númericos
-<img src ="./imagenes/Numeros.png" width="450" height="450" alt="Numeros">
-</li>
-<li>Cadenas de texto</li>
-<li>Booleanos</li>
-</ul>
+ <h2>Números</h2>
+    <p>En JavaScript, los números pueden ser enteros o decimales (también llamados flotantes). Este tipo de dato se utiliza para realizar operaciones matemáticas.</p>
+    <p>Ejemplo de números enteros: <code>25;</code></p>
+    <p>Ejemplo de números decimales: <code>19.99;</code></p>
+    
