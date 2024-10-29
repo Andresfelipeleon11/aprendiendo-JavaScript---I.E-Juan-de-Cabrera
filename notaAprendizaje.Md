@@ -28,12 +28,12 @@
 
  <h2>Númericos</h2>
     <p>En JavaScript, los números pueden ser enteros o decimales (también llamados flotantes). Este tipo de dato se utiliza para realizar operaciones matemáticas.</p>
-    <p>Ejemplo de números enteros: <code>25;</code></p>
-    <p>Ejemplo de números decimales: <code>19.99;</code></p>
+    <p><b>Ejemplo de números enteros:</b> <code>25;</code></p>
+    <p><b>Ejemplo de números decimales: </b><code>19.99;</code></p>
     
  <h2>Cadenas de textos </h2>
     <p>En JavaScript, las cadenas de texto son cadenas de caracteres que se pueden usar para almacenar y manipular texto.</p>
-    <p>Ejemplo de cadenas de texto con comillas dobles: <code>"Hola, estudiantes!"</code></p>
-    <p>Ejemplo de cadenas de texto invertidas: <code>´Hola, estudiantes!´</code></p>
+    <p><b>Ejemplo de cadenas de texto con comillas dobles:</b> <code>"Hola, estudiantes!"</code></p>
+    <p></b>Ejemplo de cadenas de texto invertidas: </b><code>´Hola, estudiantes!´</code></p>
     
     
