@@ -71,7 +71,7 @@ console.log(edad); // Muestra el valor de la variable en la consola.
 
 ```
 
-<h2>Ejercicio Práctico ⌨️⌨</h2>
+<h2>Ejercicio Práctico ⌨️</h2>
 
 <p>1. Declara una variable llamada nombre y asígnale como valor tu  primer nombre. Luego, muestra el valor de la variable en 
 en consola.
