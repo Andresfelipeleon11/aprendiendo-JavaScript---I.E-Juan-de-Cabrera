@@ -29,7 +29,9 @@
 <p> Los tipos de datos en JavaScript y más comunes son:</p>
 
 <ul>
-<li>Númericos</li>
+<li>Númericos
+<img src ="./imagenes/Numeros.png" width="450" height="450" alt="Numeros">
+</li>
 <li>Cadenas de texto</li>
 <li>Booleanos</li>
 </ul>
