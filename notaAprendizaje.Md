@@ -3,4 +3,4 @@
 
 # ¿Qué es Javascript?
 
-<img src ="./imagenes/JavaScript-logo.png" >
+<img src ="./imagenes/JavaScript-logo.png" width="350" height="350" >
