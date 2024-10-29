@@ -44,9 +44,10 @@
 <h2>Tipos de variables</h2>
 
 ```javascript
-var esMayorDeEdad = true;
-let nombre = "Andres Felipe";
-const edad = 14;
+var esMayorDeEdad = true; // Variable que se considera global
+let nombre = "Andres Felipe"; // Variable que se considera local
+const edad = 14; //Variable que se considera constante
+```
 
 
 
