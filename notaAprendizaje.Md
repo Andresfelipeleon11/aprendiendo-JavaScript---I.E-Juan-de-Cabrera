@@ -20,3 +20,16 @@
 ## Cómo interactuar con la consola de JavaScript
 
 <img src ="./imagenes/InteraccionConsola.png" width="450" height="450" alt="Consola Javascript Chrome">
+
+
+## Tipos de datos en JavaScript
+
+<p>Existen diferentes tipos de datos en JavaScript.</p>
+
+<p> Los tipos de datos en JavaScript y más comunes son:</p>
+
+<ul>
+<li>Númericos</li>
+<li>Cadenas de texto</li>
+<li>Booleanos</li>
+</ul>
