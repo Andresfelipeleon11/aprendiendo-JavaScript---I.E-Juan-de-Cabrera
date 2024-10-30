@@ -118,8 +118,8 @@ console.log(residuo) // Resultado: 12 ✅
 
 ````javascript
 
-let lado1 = 5 // Declaramos la variable del primer lado.
-let lado2 = 5 // Declaramos la variable del segundo lado.
+let lado1 = 5 // Declaramos la primera variable del primer lado.
+let lado2 = 5 // Declaramos la segunda variable del segundo lado.
 
 let area = lado1 * lado2 // Declaramos la variable y multiplicamos los valores de las variables.
 
@@ -153,19 +153,22 @@ console.log(verificar) // Resultado: false ✅.
 
 // (if y else) ✅
 
-let edad = 14 // declaramos la variable
+let edad = 14 // Declaramos la variable
 
 if (edad >= 18){
+
     // Bloque de instrucciones a ejecutar si la condición es verdadera.
     console.log("Es mayor de edad");
+
 } else {
+
     // Bloque de instrucciones a ejecutar si la condición es falsa. 
     console.log("Es menor de edad");
 }
 
 
 //(switch) ✅
-let nota = 4
+let nota = 4 // Declaramos la variable
 
 switch (nota) {
     case 1:
@@ -202,17 +205,22 @@ switch (nota) {
 
 ```javascript
 
-let num1 = 14 // Declaramos la variable con el valor entero.
+let num1 = 14 // Declaramos la primera variable con el valor entero.
 
-let num2 = 8 // Declaramos la variable con el valor entero.
+let num2 = 8 // Declaramos la segunda variable con el valor entero.
 
 if (num1 > num2){
+
     // Bloque de instrucciones a ejecutar si la condición es verdadera.
     console.log("El primer valor es mayor");
+
 } else if (num1 < num2){
+
     // Bloque de instrucciones a ejecutar si la condición es falsa. 
     console.log("El segundo valor es mayor");
+
 } else {
+
     // Bloque de instrucciones a ejecutar si la condición es falsa. 
     console.log("Los valores son iguales");
 }
