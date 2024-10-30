@@ -236,12 +236,11 @@ if (num1 > num2){
 
 ```javascript
 
+//i --> (indice)
+
+// i  --> Es el iterador y se incrementa de 1 hasta que el valor sea 10.
+
 for(let i = 1; i<=10; i++){
-
-    > [!TIP]
-    >//i (indice)
-
-    >// i  --> Es el iterador y se incrementa de 1 hasta que el valor sea 10.
 
     // Bloque de instrucciones a ejecutar.
      console.log(i);
