@@ -230,20 +230,34 @@ if (num1 > num2){
 
 ```
 
-
 <h2>Bucle o Loops</h2>
 
 <p>Un bucle o loop es una secuencia de instrucciones que se repite un número de veces.</p>
 
 ```javascript
 
-for(let i = 1; i<=5; i++){
+for(let i = 1; i<=10; i++){
 
-    //i (indice) >--> Es el iterador y se incrementa de 1 hasta que el valor sea 5.
+    [!Tip!]
+    //i (indice)
 
+    // i  --> Es el iterador y se incrementa de 1 hasta que el valor sea 10.
 
     // Bloque de instrucciones a ejecutar.
      console.log(i);
+}
+
+```
+
+<h2>Ejercicio Práctico ⌨️</h2>
+
+<p><b>5.</b> Declara una variable llamada número y asígnale un valor entero. Utiliza el ciclo for para que te muestre en consola cada número hasta el valor asignado en tu variable.
+</p>
+
+```javascript
+for(let i = 1; i<= 15; i++){
+
+    console.log(i) // Respuesta: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 ✅
 }
 
 ```
