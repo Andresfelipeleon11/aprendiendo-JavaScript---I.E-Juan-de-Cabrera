@@ -150,24 +150,48 @@ console.log(verificar) // Resultado: false ✅.
 
 ```javascript
 
-// if y else
 
-if (condición){
+// (if y else) ✅
+
+let edad = 14 // declaramos la variable
+
+if (edad >= 18){
     // Bloque de instrucciones a ejecutar si la condición es verdadera.
+    console.log("Es mayor de edad");
 } else {
     // Bloque de instrucciones a ejecutar si la condición es falsa. 
+    console.log("Es menor de edad");
 }
 
-//switch
-switch (condición) {
-    case valor1:
-        // Bloque de instrucciones a ejecutar si la condición es igual a valor1.
+
+//(switch) ✅
+let nota = 4
+
+switch (nota) {
+    case 1:
+        // Bloque de instrucciones a ejecutar si la condición es igual a nota 1.
+        console.log("Lo siento, usted ha perdido la nota");
         break;
-    case valor2:
+
+    case 2:
         // Bloque de instrucciones a ejecutar si la condición es igual a valor2.
+        console.log("Lo siento, usted ha perdido la nota");
         break;
+
+    case 3:
+        // Bloque de instrucciones a ejecutar si la condición es igual a valor3.
+        console.log("Uyy, usted ha aprobado la nota por poco");
+        break;
+
+    case 4:
+        // Bloque de instrucciones a ejecutar si la condición es igual a valor4.   
+        console.log("Felicidades, muy bien aprobaste la nota");
+        break;
+
     default:
-        // Bloque de instrucciones a ejecutar si la condición no coincide con ninguno de los valores anteriores.    
+        // Bloque de instrucciones a ejecutar si la condición no coincide con ninguno de los valores anteriores. 
+        console.log("Esa nota no existe");
+        break;   
 }
 ````
 
