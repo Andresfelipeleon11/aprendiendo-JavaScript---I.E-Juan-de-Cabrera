@@ -123,7 +123,23 @@ let lado2 = 5 // Declaramos la variable del segundo lado.
 
 let area = lado1 * lado2 // Declaramos la variable y multiplicamos los valores de las variables.
 
-console.log("El area del rectangulo es: " + area) // Resultado: El area del rectangulo es: 25 ✅
+console.log("El area del rectangulo es: " + area) // Resultado: El area del rectangulo es: 25 ✅.
+
+```
+
+
+<h2>Ejercicio Práctico ⌨️</h2>
+
+<p><b>3.</b> Declara una variable número y asígnale un valor entero. Escribe un código que verifique si número es par o impar, y que te muestre en consola true si es par y false si es impar..
+</p>
+
+```javascript
+
+let numero = 5 // Declaramos la variable con el valor entero.
+
+let verificar = numero % 2 == 0 // Declaramos la variable y verificamos si el numero es par.
+
+console.log(verificar) // Resultado: false ✅.
 
 ```
 
