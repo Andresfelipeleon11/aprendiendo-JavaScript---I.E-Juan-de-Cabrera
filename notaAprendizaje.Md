@@ -183,12 +183,12 @@ switch (nota) {
 
     case 3:
         // Bloque de instrucciones a ejecutar si la condición es igual a valor3.
-        console.log("Uyy, usted ha aprobado la nota por poco");
+        console.log("Uyy, usted ha aprobado la nota por poco"); 
         break;
 
     case 4:
         // Bloque de instrucciones a ejecutar si la condición es igual a valor4.   
-        console.log("Felicidades, muy bien aprobaste la nota");
+        console.log("Felicidades, muy bien aprobaste la nota"); // Respuesta correcta ✅
         break;
 
     default:
@@ -212,17 +212,38 @@ let num2 = 8 // Declaramos la segunda variable con el valor entero.
 if (num1 > num2){
 
     // Bloque de instrucciones a ejecutar si la condición es verdadera.
-    console.log("El primer valor es mayor");
+
+    console.log("El primer valor es mayor"); // Respuesta correcta ✅
 
 } else if (num1 < num2){
 
     // Bloque de instrucciones a ejecutar si la condición es falsa. 
+
     console.log("El segundo valor es mayor");
 
 } else {
 
     // Bloque de instrucciones a ejecutar si la condición es falsa. 
+
     console.log("Los valores son iguales");
 }
 
-````
+```
+
+
+<h2>Bucle o Loops</h2>
+
+<p>Un bucle o loop es una secuencia de instrucciones que se repite un número de veces.</p>
+
+```javascript
+
+for(let i = 1; i<=5; i++){
+
+    //i (indice) >--> Es el iterador y se incrementa de 1 hasta que el valor sea 5.
+
+
+    // Bloque de instrucciones a ejecutar.
+     console.log(i);
+}
+
+```
