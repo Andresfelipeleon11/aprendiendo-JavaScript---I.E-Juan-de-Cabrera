@@ -39,7 +39,7 @@ true // Valor de tipo booleano (verdadero).
 false // Valor de tipo booleano (falso).
 ```
 
-<h2>Tipos de variables</h2>
+<h2>Tipos de Variables</h2>
 
 <p>En JavaScript, las variables son espacios de memoria que se utilizan para almacenar valores. Estas variables se pueden crear, modificar y eliminar de la misma manera que las cadenas de texto. </p>
 
@@ -53,7 +53,7 @@ let nombre = "Andres Felipe"; // Crea una variable de ámbito de bloque (local a
 const edad = 14; // Crea una variable de ámbito de bloque que es constante, lo que significa que su valor no puede ser reasignado.
 ```
 
-<h2>Mostrar valores en consola</h2>
+<h2>Mostrar Valores en Consola</h2>
 
 ```javascript
 
@@ -142,6 +142,34 @@ let verificar = numero % 2 == 0 // Declaramos la variable y verificamos si el nu
 console.log(verificar) // Resultado: false ✅.
 
 ```
+
+
+<h2>Estructuras de Control</h2>
+
+<p>Las estructuras de control permiten controlar el flujo de ejecución de un programa. Estas estructuras de control son:</p>
+
+```javascript
+
+// if y else
+
+if (condición){
+    // Bloque de instrucciones a ejecutar si la condición es verdadera.
+} else {
+    // Bloque de instrucciones a ejecutar si la condición es falsa. 
+}
+
+//switch
+switch (condición) {
+    case valor1:
+        // Bloque de instrucciones a ejecutar si la condición es igual a valor1.
+        break;
+    case valor2:
+        // Bloque de instrucciones a ejecutar si la condición es igual a valor2.
+        break;
+    default:
+        // Bloque de instrucciones a ejecutar si la condición no coincide con ninguno de los valores anteriores.    
+}
+````
 
 
     
