@@ -1,5 +1,6 @@
 # Desarrollo de Habilidades de Programación con Recursos Limitados
 
+<img src ="./imagenes/programacion.png" width="250" height="250" alt="programacion">
 
 ## ¿Por qué aprender a programar, aunque no tengamos muchos recursos?
 
