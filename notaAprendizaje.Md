@@ -267,6 +267,8 @@ for(let i = 1; i<= 15; i++){
 
 ```javascript
 
+//Ejemplo #1
+
 function Saludar(){
 
     // Bloque de instrucciones a ejecutar.
@@ -275,6 +277,8 @@ function Saludar(){
 }
 
 Saludar();
+
+//Ejemplo #2
 
 function SaludarEstudiante(nombre, apellido){
 
@@ -296,5 +300,4 @@ function DoblarNumero(numero){
 }
 
 DoblarNumero(5) // Respuesta: 10 ✅
-
 ```
