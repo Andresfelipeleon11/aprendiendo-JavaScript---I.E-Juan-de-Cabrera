@@ -260,3 +260,41 @@ for(let i = 1; i<= 15; i++){
 }
 
 ```
+
+<h2>Funciones</h2>
+
+<p>Una función es un bloque de código que se ejecuta cuando se llama a ella. Las funciones pueden recibir argumentos y devolver valores. </p>
+
+```javascript
+
+function Saludar(){
+
+    // Bloque de instrucciones a ejecutar.
+
+    return "Hola, estudiantes"; // Devuelve el saludo. ✅
+}
+
+Saludar();
+
+function SaludarEstudiante(nombre, apellido){
+
+return "Hola, tu nombre es "+nombre + " y tu apellido es " + apellido;
+}
+
+SaludarEstudiante("Andres", "Felipe"); // Respuesta: "Hola, tu nombre es Andres y tu apellido es Felipe" ✅        
+```
+
+<h2>Ejercicio Práctico ⌨️</h2>
+
+<p><b>6.</b> Crea una función llamada doblarNumero que tome un número cómo parámetro, la función debe devolver el doble del número que se le pasa
+</p>
+
+```javascript
+
+function DoblarNumero(numero){
+    return numero * 2
+}
+
+DoblarNumero(5) // Respuesta: 10 ✅
+
+```
