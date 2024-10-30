@@ -11,7 +11,7 @@
 
 <p>Programar implica pensar en cómo resolver un problema de la manera más eficiente, traduciendo ideas en código que una computadora pueda ejecutar. Además, la programación no solo es técnica; también es creativa. Nos permite construir desde una simple calculadora hasta aplicaciones complejas, juegos, o programas que manejan datos, y eso puede tener un impacto enorme en cómo vivimos y trabajamos.</p>
 
-<h2 style="color:yellow">¿Qué es JavaScript?</h2>
+<h2 style="color:blue">¿Qué es JavaScript?</h2>
 
 <img src ="./imagenes/JavaScript-logo.png" width="250" height="250" alt="Javascript">
 
