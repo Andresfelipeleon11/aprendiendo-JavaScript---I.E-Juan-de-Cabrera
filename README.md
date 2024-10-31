@@ -6,7 +6,6 @@
 2. **Propósito de la actividad**
 3. **¿Qué es la programación?**
 4. **¿Por qué aprender programación?**  
-   - Contextualización y ejemplos para mostrar la relevancia de la programación en la vida cotidiana.
 5. **¿Qué es JavaScript?**  
    - Introducción al lenguaje JavaScript y sus usos principales.
 6. **Cómo interactuar con la consola de JavaScript en Chrome**  
