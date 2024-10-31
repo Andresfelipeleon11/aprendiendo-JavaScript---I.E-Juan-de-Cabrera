@@ -20,8 +20,9 @@
 
 ## Cómo interactuar con la consola de JavaScript
 
-<img src ="./imagenes/InteraccionConsola.png" alt="Consola Javascript Chrome">
+<h2>Guía para abrir la consola de desarrolladores y escribir codigo en javascript</h2>
 
+<img src ="./imagenes/InteraccionConsola.png" alt="Consola Javascript Chrome" width="300" height="300">
 
 ## Tipos de datos en JavaScript
 
