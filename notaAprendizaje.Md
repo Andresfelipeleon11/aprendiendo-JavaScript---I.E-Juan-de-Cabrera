@@ -24,7 +24,7 @@
 
 <h2>Guía para abrir la consola de desarrolladores y escribir codigo en javascript</h2>
 
-<p>1. Utilizamos nuestro navegador de preferencia.</p>
+<p><b>1. Utilizamos nuestro navegador de preferencia. </b></p>
 
 <img src ="./imagenes/navegadores.png" alt="navegadores_preferencia" width="300" height="300">
 
