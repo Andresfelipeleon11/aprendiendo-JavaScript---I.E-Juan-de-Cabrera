@@ -1,12 +1,12 @@
 # Desarrollo de Habilidades de Programación con Recursos Limitados
 
-<img src ="./imagenes/programacion.jpg" width="300" height="300" alt="programacion_habilidad">
+<img src ="./imagenes/programacion.jpg" width="400" height="400" alt="programacion_habilidad">
 
-## ¿Por qué aprender a programar, aunque no tengamos muchos recursos?
+## ¿Por qué Aprender a Programar, Aunque no Tengamos Muchos Recursos?
 
 <p>Es esencial porque el conocimiento en programación nos da acceso a herramientas poderosas para resolver problemas en cualquier contexto. Primero, entender cómo funcionan las aplicaciones y los sistemas que usamos todos los días nos permite adaptarnos mejor a un mundo tecnológico que sigue avanzando sin parar. Además, la programación desarrolla nuestro pensamiento lógico y habilidades de resolución de problemas, que son valiosas no solo en tecnología, sino en cualquier área de estudio o trabajo.</p>
 
-## ¿Qué es la programación?
+## ¿Qué es la Programación?
 
 <p>La programación es el proceso de crear instrucciones detalladas que le dicen a una computadora qué hacer, paso a paso. Estas instrucciones se escriben en lenguajes específicos que la máquina puede entender, como JavaScript, Python o C++. Es como escribir una receta, pero en lugar de comida, estamos "cocinando" soluciones, aplicaciones o sistemas que pueden realizar tareas automáticamente.</p>
 
@@ -18,7 +18,7 @@
 
 <p> Es un lenguaje de programación popular que se utiliza para crear sitios web interactivos y dinámicos. Es el "cerebro" detrás de muchas funciones que vemos en una página web, como cuando un botón cambia de color al hacer clic, un formulario valida nuestros datos, o se muestran gráficos en tiempo real. Aunque suele asociarse con el desarrollo web, JavaScript también puede usarse en otros entornos, como en el desarrollo de aplicaciones móviles y de escritorio, e incluso en el control de dispositivos como drones o robots.</p>
 
-## Cómo interactuar con la consola de JavaScript
+## Cómo Interactuar con la Consola de JavaScript
 
 <img src ="./imagenes/InteraccionConsola.png" alt="Consola Javascript Chrome">
 
@@ -26,7 +26,7 @@
 
 <p><b>1. Utilizamos nuestro navegador de preferencia. </b></p>
 
-<img src ="./imagenes/navegadores.png" alt="navegadores_preferencia" width="300" height="300">
+<img src ="./imagenes/navegadores.png" alt="navegadores_preferencia" width="400" height="400">
 
 <p><b>2. Entramos a la siguiente url: <code>about:blank</code> </b>
 Nos genera un espacio en blanco para escribir nuestro codigo.
@@ -34,12 +34,12 @@ Nos genera un espacio en blanco para escribir nuestro codigo.
 
 <img src ="./imagenes/about_blank.png" alt="about_blank_sitio">
 
-<p><b>3. Nos ubicamos en la consola de desarrolladores damos clic en F12 y abrimos la consola.</b></p>
+<p><b>3. Nos ubicamos en la consola de desarrolladores damos clic en <code>F12</code> y abrimos la consola.</b></p>
 
 <img src ="./imagenes/consolaChrome.png" alt="consolaChrome">
 
 
-## Tipos de datos en JavaScript
+## Tipos de Datos en JavaScript
 
 <h4>Existen diferentes tipos de datos en JavaScript, los tipos de datos más comunes son: </h4>
 
