@@ -1,6 +1,6 @@
 # Desarrollo de Habilidades de Programación con Recursos Limitados
 
-** ✅ Ver insumo da clic [aquí](https://n9.cl/v5bwk "aquí") **
+ ✅ Ver el insumo da clic [aquí](https://n9.cl/v5bwk "aquí") 
 
 ## Contenido del Insumo Educativo
 
