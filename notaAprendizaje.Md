@@ -32,7 +32,7 @@
 Nos genera un espacio en blanco para escribir nuestro codigo.
 </p>
 
-<img src ="./imagenes/about_blank.png" alt="about_blank_sitio" width="300" height="300">
+<img src ="./imagenes/about_blank.png" alt="about_blank_sitio">
 
 
 
