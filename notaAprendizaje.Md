@@ -34,6 +34,9 @@ Nos genera un espacio en blanco para escribir nuestro codigo.
 
 <img src ="./imagenes/about_blank.png" alt="about_blank_sitio">
 
+<p><b>3. Nos ubicamos en la consola de desarrolladores damos clic en F12 y abrimos la consola.</b></p>
+
+<img src ="./imagenes/consolaChrome.png.png" alt="consolaChrome">
 
 
 ## Tipos de datos en JavaScript
