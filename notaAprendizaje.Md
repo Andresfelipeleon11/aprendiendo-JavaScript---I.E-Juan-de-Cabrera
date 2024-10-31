@@ -2,7 +2,7 @@
 
 <img src ="./imagenes/programacion.jpg" width="400" height="400" alt="programacion_habilidad">
 
-## ¿Por qué Aprender a Programar, Aunque no Tengamos Muchos Recursos?
+## ¿Por qué aprender a programar, aunque no tengamos muchos recursos?
 
 <img src ="./imagenes/pensandoAnimado.jpg" alt="animacion_pensando" width="300" height="300">
 
