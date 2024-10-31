@@ -28,7 +28,11 @@
 
 <img src ="./imagenes/navegadores.png" alt="navegadores_preferencia" width="300" height="300">
 
-<p>2. Abrimos la consola de desarrolladores.</p>
+<p><b>2. Entramos a la siguiente url: <code>about:blank</code> </b>
+Nos genera un espacio en blanco para escribir nuestro codigo.
+</p>
+
+
 
 ## Tipos de datos en JavaScript
 
