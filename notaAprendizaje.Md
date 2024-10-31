@@ -26,7 +26,7 @@
 
 <p>1. Utilizamos nuestro navegador de preferencia.</p>
 
-<img src ="./imagenes/navegadores.png" alt="navegadores_preferencia">
+<img src ="./imagenes/navegadores.png" alt="navegadores_preferencia" width="300" height="300">
 
 <p>2. Abrimos la consola de desarrolladores.</p>
 
