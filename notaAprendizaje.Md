@@ -1,327 +1,242 @@
+
 # Fundamentos de Programación con JavaScript
 
-<img src ="./imagenes/programacion.jpg" width="300" height="300" alt="programacion_habilidad">
-
+![programacion_habilidad](./imagenes/programacion.jpg)
 
 ## ¿Qué es la Programación?
 
-<p>La programación es el proceso de crear instrucciones detalladas que le dicen a una computadora qué hacer, paso a paso. Estas instrucciones se escriben en lenguajes específicos que la máquina puede entender, como JavaScript, Python o C++. Es como escribir una receta, pero en lugar de comida, estamos "cocinando" soluciones, aplicaciones o sistemas que pueden realizar tareas automáticamente.</p>
+La programación es el proceso de crear instrucciones detalladas que indican a una computadora cómo realizar tareas, paso a paso. Estas instrucciones se escriben en lenguajes específicos que la máquina puede entender, como JavaScript, Python o C++. Es similar a escribir una receta: en lugar de cocinar alimentos, estamos "cocinando" soluciones, aplicaciones o sistemas que realizan tareas automáticamente.
 
-<p>Programar implica pensar en cómo resolver un problema de la manera más eficiente, traduciendo ideas en código que una computadora pueda ejecutar. Además, la programación no solo es técnica; también es creativa. Nos permite construir desde una simple calculadora hasta aplicaciones complejas, juegos, o programas que manejan datos, y eso puede tener un impacto enorme en cómo vivimos y trabajamos.</p>
+Programar implica resolver problemas de manera eficiente, traduciendo ideas en código que la computadora puede ejecutar. La programación no es solo técnica; también es un proceso creativo. Nos permite construir desde una simple calculadora hasta aplicaciones complejas, juegos y programas que manejan datos, impactando así nuestra vida cotidiana.
 
 ## ¿Por qué aprender a programar, aunque no tengamos muchos recursos?
 
-<p>Es esencial porque el conocimiento en programación nos da acceso a herramientas poderosas para resolver problemas en cualquier contexto. Primero, entender cómo funcionan las aplicaciones y los sistemas que usamos todos los días nos permite adaptarnos mejor a un mundo tecnológico que sigue avanzando sin parar. Además, la programación desarrolla nuestro pensamiento lógico y habilidades de resolución de problemas, que son valiosas no solo en tecnología, sino en cualquier área de estudio o trabajo.</p>
+Aprender a programar es esencial porque nos proporciona herramientas poderosas para resolver problemas en cualquier contexto. Comprender cómo funcionan las aplicaciones y sistemas que utilizamos diariamente nos ayuda a adaptarnos a un mundo tecnológico en constante evolución. Además, la programación fomenta el desarrollo del pensamiento lógico y las habilidades de resolución de problemas, que son valiosas en cualquier área de estudio o trabajo.
 
-<img src ="./imagenes/pensandoAnimado.jpg" alt="animacion_pensando" width="300" height="300">
+![animacion_pensando](./imagenes/pensandoAnimado.jpg)
 
-## ¿Qué es Javascript?
+## ¿Qué es JavaScript?
 
-<img src ="./imagenes/JavaScript-logo.png" width="250" height="250" alt="Javascript">
+![Javascript](./imagenes/JavaScript-logo.png)
 
-<p> Es un lenguaje de programación popular que se utiliza para crear sitios web interactivos y dinámicos. Es el "cerebro" detrás de muchas funciones que vemos en una página web, como cuando un botón cambia de color al hacer clic, un formulario valida nuestros datos, o se muestran gráficos en tiempo real. Aunque suele asociarse con el desarrollo web, JavaScript también puede usarse en otros entornos, como en el desarrollo de aplicaciones móviles y de escritorio, e incluso en el control de dispositivos como drones o robots.</p>
+JavaScript es un lenguaje de programación ampliamente utilizado para crear sitios web interactivos y dinámicos. Es el "cerebro" detrás de muchas funciones en una página web, como cambios de color de botones al hacer clic, validación de formularios y gráficos en tiempo real. Aunque se asocia comúnmente con el desarrollo web, JavaScript también se utiliza en el desarrollo de aplicaciones móviles, de escritorio e incluso en el control de dispositivos como drones o robots.
 
 ## Cómo Interactuar con la Consola de JavaScript
 
-<img src ="./imagenes/InteraccionConsola.png" alt="Consola Javascript Chrome">
+![Consola Javascript Chrome](./imagenes/InteraccionConsola.png)
 
-<h2>Guía para abrir la consola de desarrolladores y escribir codigo en javascript</h2>
+### Guía para abrir la consola de desarrolladores y escribir código en JavaScript
 
-<p><b>1. Utilizamos nuestro navegador de preferencia. </b></p>
+1. **Usa tu navegador preferido.**
 
-<img src ="./imagenes/navegadores.png" alt="navegadores_preferencia" width="400" height="400">
+![navegadores_preferencia](./imagenes/navegadores.png)
 
-<p><b>2. Entramos a la siguiente url: <code>about:blank</code> </b>
-Nos genera un espacio en blanco para escribir nuestro codigo.
-</p>
+2. **Accede a la siguiente URL:** `about:blank`  
+   Esto te dará un espacio en blanco para escribir tu código.
 
-<img src ="./imagenes/about_blank.png" alt="about_blank_sitio">
+![about_blank_sitio](./imagenes/about_blank.png)
 
-<p><b>3. Nos ubicamos en la consola de desarrolladores damos clic en <code>F12</code> y abrimos la consola.</b></p>
+3. **Abre la consola de desarrolladores presionando `F12`.**
 
-<img src ="./imagenes/consolaChrome.png" alt="consolaChrome">
-
+![consolaChrome](./imagenes/consolaChrome.png)
 
 ## Tipos de Datos en JavaScript
 
-<h4>Existen diferentes tipos de datos en JavaScript, los tipos de datos más comunes son: </h4>
+JavaScript tiene varios tipos de datos. Los más comunes son:
 
- ```javascript
-23; // Valor númerico entero.
-
-2.34; // Valor númerico decimal.
-
+```javascript
+23; // Número entero.
+2.34; // Número decimal.
 "¡Hola, Estudiantes!"; // Cadena de texto con comillas dobles.
 `¡Hola, Estudiantes!` // Cadena de texto con comillas invertidas.
-
-true // Valor de tipo booleano (verdadero).
-
-false // Valor de tipo booleano (falso).
+true; // Valor booleano (verdadero).
+false; // Valor booleano (falso).
 ```
 
-<h2>Tipos de Variables</h2>
+### Tipos de Variables
 
-<p>En JavaScript, las variables son espacios de memoria que se utilizan para almacenar valores. Estas variables se pueden crear, modificar y eliminar de la misma manera que las cadenas de texto. </p>
+Las variables son espacios de memoria utilizados para almacenar valores. Se pueden crear, modificar y eliminar de manera similar a las cadenas de texto.
 
-<h4>Ejemplo</h4>
+#### Ejemplo
 
 ```javascript
-var esMayorDeEdad = true; // Crea una variable de ámbito global o de función (dependiendo de dónde se declare), pero no estrictamente "global".
-
-let nombre = "Andres Felipe"; // Crea una variable de ámbito de bloque (local al bloque, bucle o instrucción donde se declara).
-
-const edad = 14; // Crea una variable de ámbito de bloque que es constante, lo que significa que su valor no puede ser reasignado.
+var esMayorDeEdad = true; // Variable de ámbito global o de función.
+let nombre = "Andres Felipe"; // Variable de ámbito de bloque.
+const edad = 14; // Variable de ámbito de bloque, constante.
 ```
 
-<h2>Mostrar Valores en Consola</h2>
+### Mostrar Valores en Consola
 
 ```javascript
+// Ejemplo #1
+let nombre = "Andres Felipe"; 
+console.log(nombre); // Muestra: "Andres Felipe"
 
-//Ejemplo #1
-
-let nombre = "Andres Felipe"; // Variable declarada.
-
-console.log(nombre); // Muestra el valor de la variable en la consola.
-
-//Ejemplo #2
-
-let edad = 23; // Variable declarada.
-
-console.log(edad); // Muestra el valor de la variable en la consola.
-
+// Ejemplo #2
+let edad = 23; 
+console.log(edad); // Muestra: 23
 ```
 
-<h2>Ejercicio Práctico ⌨️</h2>
+### Ejercicio Práctico ⌨️
 
-<p><b>1.</b> Declara una variable llamada nombre y asígnale como valor tu  primer nombre. Luego, muestra el valor de la variable en 
-en consola.
-</p>
+1. Declara una variable llamada `nombre` y asígnale tu primer nombre. Luego, muestra su valor en consola.
 
 ```javascript
-let nombre = "Andres" // Declaramos la variable.
-
-console.log(nombre) // Resultado: "Andres" ✅.
+let nombre = "Andres"; 
+console.log(nombre); // Resultado: "Andres" ✅
 ```
 
-<h2>Operadores Aritméticos</h2>
+### Operadores Aritméticos
 
-<p>Los operadores aritméticos permiten realizar operaciones aritméticas de suma, resta, multiplicación y división. </p>
-
-```javascript	
-
-
-let n1 = 25 // Declaramos la variable
-
-let n2 = 13 // Declaramos la variable
-
-let suma = n1 + n2 // Declaramos la variable y sumamos los valores de las variables.
-console.log(suma) // Resultado: 38 ✅
-
-let resta = n1 - n2 //Declaramos la variable y sumamos los valores de las variables.
-console.log(resta) // Resultado: 12 ✅
-
-let multiplicacion = n1 * n2 //Declaramos la variable y sumamos los valores de las variables.
-console.log(multiplicacion) // Resultado: 325 ✅
-
-let division = n1 / n2 //Declaramos la variable y sumamos los valores de las variables.
-console.log(division) // Resultado: 1.92307 ✅
-
-let residuo = n1 % n2 //Declaramos la variable y sumamos los valores de las variables.
-console.log(residuo) // Resultado: 12 ✅
-
-```
-
-<h2>Ejercicio Práctico ⌨️</h2>
-
-<p><b>2.</b> Declara una variable lado, asígnale un valor entero y calcula el área del cuadrado.
-</p>
-
-````javascript
-
-let lado = 5 // Declaramos la variable 
-
-let area = lado * lado // Declaramos la variable y multiplicamos su variable.
-
-console.log("El area del cuadrado es: " + area) // Resultado: El area del cuadrado es: 25 ✅.
-
-````
-
-<h2>Ejercicio Práctico ⌨️</h2>
-
-<p><b>3.</b> Declara una variable número y asígnale un valor entero. Escribe un código que verifique si número es par o impar, y que te muestre en consola true si es par y false si es impar.
-</p>
+Los operadores aritméticos permiten realizar operaciones como suma, resta, multiplicación y división.
 
 ```javascript
+let n1 = 25; 
+let n2 = 13; 
 
-let numero = 5 // Declaramos la variable con el valor entero.
+let suma = n1 + n2; 
+console.log(suma); // Resultado: 38 ✅
 
-let verificar = numero % 2 == 0 // Declaramos la variable y verificamos si el numero es par.
+let resta = n1 - n2; 
+console.log(resta); // Resultado: 12 ✅
 
-console.log(verificar) // Resultado: false ✅.
+let multiplicacion = n1 * n2; 
+console.log(multiplicacion); // Resultado: 325 ✅
 
+let division = n1 / n2; 
+console.log(division); // Resultado: 1.92307 ✅
+
+let residuo = n1 % n2; 
+console.log(residuo); // Resultado: 12 ✅
 ```
 
-<h2>Estructuras de Control Condicional y Caso</h2>
+### Ejercicio Práctico ⌨️
 
-<p>Las estructuras de control nos permiten controlar el flujo de ejecución de un programa. Estas estructuras de control son:</p>
+2. Declara una variable `lado`, asígnale un valor entero y calcula el área del cuadrado.
 
 ```javascript
+let lado = 5; 
+let area = lado * lado; 
+console.log("El área del cuadrado es: " + area); // Resultado: 25 ✅
+```
 
+### Ejercicio Práctico ⌨️
 
-// (if y else) ✅ -->Condicional
+3. Declara una variable `numero` y asígnale un valor entero. Escribe un código que verifique si es par o impar, mostrando `true` si es par y `false` si es impar.
 
-let edad = 14 // Declaramos la variable
+```javascript
+let numero = 5; 
+let verificar = numero % 2 == 0; 
+console.log(verificar); // Resultado: false ✅
+```
 
-if (edad >= 18){
+### Estructuras de Control Condicional y Caso
 
-    // Bloque de instrucciones a ejecutar si la condición es verdadera.
+Las estructuras de control permiten gestionar el flujo de ejecución de un programa. Incluyen:
+
+```javascript
+// (if y else) ✅
+let edad = 14; 
+
+if (edad >= 18) {
     console.log("Es mayor de edad");
-
 } else {
-
-    // Bloque de instrucciones a ejecutar si la condición es falsa. 
     console.log("Es menor de edad");
 }
 
-
-//(switch) ✅ --> Caso
-let nota = 4 // Declaramos la variable
+// (switch) ✅
+let nota = 4; 
 
 switch (nota) {
     case 1:
-        // Bloque de instrucciones a ejecutar si la condición es igual a nota 1.
         console.log("Lo siento, usted ha perdido la nota");
         break;
-
     case 2:
-        // Bloque de instrucciones a ejecutar si la condición es igual a valor2.
         console.log("Lo siento, usted ha perdido la nota");
         break;
-
     case 3:
-        // Bloque de instrucciones a ejecutar si la condición es igual a valor3.
-        console.log("Uyy, usted ha aprobado la nota por poco"); 
+        console.log("Uyy, usted ha aprobado la nota por poco");
         break;
-
     case 4:
-        // Bloque de instrucciones a ejecutar si la condición es igual a valor4.   
         console.log("Felicidades, muy bien aprobaste la nota"); // Respuesta correcta ✅
         break;
-
     default:
-        // Bloque de instrucciones a ejecutar si la condición no coincide con ninguno de los valores anteriores. 
         console.log("Esa nota no existe");
         break;   
 }
 ```
 
-<h2>Ejercicio Práctico ⌨️</h2>
+### Ejercicio Práctico ⌨️
 
-<p><b>4.</b> Declara dos variables num1 y num2 y asígnales valores enteros. Escribe un código que compare ambos números y muestre en la consola cuál es el mayor, o si son iguales. 
-</p>
+4. Declara dos variables `num1` y `num2` y asígnales valores enteros. Compara ambos números y muestra en consola cuál es el mayor, o si son iguales.
 
 ```javascript
+let num1 = 14; 
+let num2 = 8; 
 
-let num1 = 14 // Declaramos la primera variable con el valor entero.
-
-let num2 = 8 // Declaramos la segunda variable con el valor entero.
-
-if (num1 > num2){
-
-    // Bloque de instrucciones a ejecutar si la condición es verdadera.
-
+if (num1 > num2) {
     console.log("El primer valor es mayor"); // Respuesta correcta ✅
-
-} else if (num1 < num2){
-
-    // Bloque de instrucciones a ejecutar si la condición es falsa. 
-
+} else if (num1 < num2) {
     console.log("El segundo valor es mayor");
-
 } else {
-
-    // Bloque de instrucciones a ejecutar si la condición es falsa. 
-
     console.log("Los valores son iguales");
 }
-
 ```
 
-<h2>Estructura de Control Bloque Iterativo</h2>
+### Estructura de Control Bloque Iterativo
 
-<p>Un bucle o loop es una secuencia de instrucciones que se repite un número de veces.</p>
+Un bucle o loop es una secuencia de instrucciones que se repite un número de veces.
 
 ```javascript
-
-//i --> (indice)
-
+// Bucle while
 let i = 1;
 while (i < 5) {
     console.log("Este es el ciclo número: " + i);
     i++;
 }
 
-
-// Bloque for
-
-for(let i = 1; i<=10; i++){
-
-    // Bloque de instrucciones a ejecutar.
-     console.log(i);
+// Bucle for
+for (let i = 1; i <= 10; i++) {
+    console.log(i);
 }
-
 ```
 
-<h2>Ejercicio Práctico ⌨️</h2>
+### Ejercicio Práctico ⌨️
 
-<p><b>5.</b> Declara una variable llamada número y asígnale un valor entero. Utiliza el ciclo for para que te muestre en consola cada número hasta el valor asignado en tu variable.
-</p>
+5. Declara una variable llamada `numero` y asígnale un valor entero. Utiliza un ciclo `for` para mostrar en consola cada número hasta el valor de la variable.
 
 ```javascript
-for(let i = 1; i<= 15; i++){
-
-    console.log(i) // Respuesta: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 ✅
+for (let i = 1; i <= 15; i++) {
+    console.log(i); // Respuesta: 1, 2, 3, ..., 15 ✅
 }
-
 ```
 
-<h2>Funciones</h2>
+### Funciones
 
-<p>Una función es un bloque de código que se ejecuta cuando se llama a ella. Las funciones pueden recibir argumentos y devolver valores. </p>
+Una función es un bloque de código que se ejecuta al ser llamada. Pueden recibir argumentos y devolver valores.
 
 ```javascript
-
-//Ejemplo #1
-
-function Saludar(){
-
-    // Bloque de instrucciones a ejecutar.
-
+// Ejemplo #1
+function Saludar() {
     return "Hola, estudiantes"; // Devuelve el saludo. ✅
 }
-
 Saludar();
 
-//Ejemplo #2
-
-function SaludarEstudiante(nombre, apellido){
-
-return "Hola, tu nombre es "+nombre + " y tu apellido es " + apellido;
+// Ejemplo #2
+function SaludarEstudiante(nombre, apellido) {
+    return "Hola, tu nombre es " + nombre + " y tu apellido es " + apellido;
 }
-
 SaludarEstudiante("Andres", "Felipe"); // Respuesta: "Hola, tu nombre es Andres y tu apellido es Felipe" ✅        
 ```
 
-<h2>Ejercicio Práctico ⌨️</h2>
+### Ejercicio Práctico ⌨️
 
-<p><b>6.</b> Crea una función llamada doblarNumero que tome un número cómo parámetro, la función debe devolver el doble del número que se le pasa
-</p>
+6. Crea una función llamada `doblarNumero` que tome un número como parámetro y devuelva el doble de ese número.
 
 ```javascript
-
-function DoblarNumero(numero){
-    return numero * 2
+function DoblarNumero(numero) {
+    return numero * 2;
 }
-
-DoblarNumero(5) // Respuesta: 10 ✅
+DoblarNumero(5); // Respuesta: 10 ✅
 ```
+
