@@ -1,7 +1,7 @@
 
 # Fundamentos de Programación con JavaScript
 
-<img src ="./imagenes/programacion.jpg" width="400" height="400" alt="programacion_habilidad">
+<img src ="./imagenes/programacion.jpg" width="600" height="600" alt="programacion_habilidad">
 
 ## ¿Qué es la Programación?
 
@@ -13,7 +13,7 @@ Programar implica resolver problemas de manera eficiente, traduciendo ideas en c
 
 Aprender a programar es esencial porque nos proporciona herramientas poderosas para resolver problemas en cualquier contexto. Comprender cómo funcionan las aplicaciones y sistemas que utilizamos diariamente nos ayuda a adaptarnos a un mundo tecnológico en constante evolución. Además, la programación fomenta el desarrollo del pensamiento lógico y las habilidades de resolución de problemas, que son valiosas en cualquier área de estudio o trabajo.
 
-<img src ="./imagenes/pensandoAnimado.jpg" alt="animacion_pensando" width="400" height="400">
+<img src ="./imagenes/pensandoAnimado.jpg" alt="animacion_pensando" width="300" height="300">
 
 ## ¿Qué es JavaScript?
 
