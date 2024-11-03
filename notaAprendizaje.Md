@@ -1,4 +1,4 @@
-# Desarrollo de Habilidades de Programación con Recursos Limitados
+# Fundamentos de Programación con JavaScript
 
 <img src ="./imagenes/programacion.jpg" width="300" height="300" alt="programacion_habilidad">
 
