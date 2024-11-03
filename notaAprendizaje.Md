@@ -1,7 +1,7 @@
 
 # Fundamentos de Programación con JavaScript
 
-<img src ="./imagenes/programacion.jpeg" width="400" alt="programacion_fundamentos">
+<img src ="./imagenes/programacion.jpeg" width="500" alt="programacion_fundamentos">
 
 ## ¿Qué es la Programación?
 
