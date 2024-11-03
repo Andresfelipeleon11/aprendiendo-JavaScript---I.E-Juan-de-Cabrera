@@ -2,17 +2,18 @@
 
 <img src ="./imagenes/programacion.jpg" width="300" height="300" alt="programacion_habilidad">
 
-## ¿Por qué aprender a programar, aunque no tengamos muchos recursos?
-
-<p>Es esencial porque el conocimiento en programación nos da acceso a herramientas poderosas para resolver problemas en cualquier contexto. Primero, entender cómo funcionan las aplicaciones y los sistemas que usamos todos los días nos permite adaptarnos mejor a un mundo tecnológico que sigue avanzando sin parar. Además, la programación desarrolla nuestro pensamiento lógico y habilidades de resolución de problemas, que son valiosas no solo en tecnología, sino en cualquier área de estudio o trabajo.</p>
-
-<img src ="./imagenes/pensandoAnimado.jpg" alt="animacion_pensando" width="300" height="300">
 
 ## ¿Qué es la Programación?
 
 <p>La programación es el proceso de crear instrucciones detalladas que le dicen a una computadora qué hacer, paso a paso. Estas instrucciones se escriben en lenguajes específicos que la máquina puede entender, como JavaScript, Python o C++. Es como escribir una receta, pero en lugar de comida, estamos "cocinando" soluciones, aplicaciones o sistemas que pueden realizar tareas automáticamente.</p>
 
 <p>Programar implica pensar en cómo resolver un problema de la manera más eficiente, traduciendo ideas en código que una computadora pueda ejecutar. Además, la programación no solo es técnica; también es creativa. Nos permite construir desde una simple calculadora hasta aplicaciones complejas, juegos, o programas que manejan datos, y eso puede tener un impacto enorme en cómo vivimos y trabajamos.</p>
+
+## ¿Por qué aprender a programar, aunque no tengamos muchos recursos?
+
+<p>Es esencial porque el conocimiento en programación nos da acceso a herramientas poderosas para resolver problemas en cualquier contexto. Primero, entender cómo funcionan las aplicaciones y los sistemas que usamos todos los días nos permite adaptarnos mejor a un mundo tecnológico que sigue avanzando sin parar. Además, la programación desarrolla nuestro pensamiento lógico y habilidades de resolución de problemas, que son valiosas no solo en tecnología, sino en cualquier área de estudio o trabajo.</p>
+
+<img src ="./imagenes/pensandoAnimado.jpg" alt="animacion_pensando" width="300" height="300">
 
 ## ¿Qué es Javascript?
 
@@ -132,20 +133,18 @@ console.log(residuo) // Resultado: 12 ✅
 
 <h2>Ejercicio Práctico ⌨️</h2>
 
-<p><b>2.</b> Declara dos variables, lado1 y lado2, y asígnales un valor entero que represente las dimensiones de un rectángulo. Calcula el área multiplicando ambos lados y muestra el resultado en la consola.
+<p><b>2.</b> Declara una variable lado, asígnale un valor entero y calcula el área del cuadrado.
 </p>
 
 ````javascript
 
-let lado1 = 5 // Declaramos la primera variable del primer lado.
-let lado2 = 5 // Declaramos la segunda variable del segundo lado.
+let lado = 5 // Declaramos la variable 
 
-let area = lado1 * lado2 // Declaramos la variable y multiplicamos los valores de las variables.
+let area = lado * lado // Declaramos la variable y multiplicamos su variable.
 
-console.log("El area del rectangulo es: " + area) // Resultado: El area del rectangulo es: 25 ✅.
+console.log("El area del cuadrado es: " + area) // Resultado: El area del cuadrado es: 25 ✅.
 
 ````
-
 
 <h2>Ejercicio Práctico ⌨️</h2>
 
@@ -162,15 +161,14 @@ console.log(verificar) // Resultado: false ✅.
 
 ```
 
-
-<h2>Estructuras de Control</h2>
+<h2>Estructuras de Control Condicional y Caso</h2>
 
 <p>Las estructuras de control nos permiten controlar el flujo de ejecución de un programa. Estas estructuras de control son:</p>
 
 ```javascript
 
 
-// (if y else) ✅
+// (if y else) ✅ -->Condicional
 
 let edad = 14 // Declaramos la variable
 
@@ -186,7 +184,7 @@ if (edad >= 18){
 }
 
 
-//(switch) ✅
+//(switch) ✅ --> Caso
 let nota = 4 // Declaramos la variable
 
 switch (nota) {
@@ -249,7 +247,7 @@ if (num1 > num2){
 
 ```
 
-<h2>Bucle o Loops</h2>
+<h2>Estructura de Control Bloque Iterativo</h2>
 
 <p>Un bucle o loop es una secuencia de instrucciones que se repite un número de veces.</p>
 
@@ -257,7 +255,14 @@ if (num1 > num2){
 
 //i --> (indice)
 
-// i  --> Es el iterador y se incrementa de 1 hasta que el valor sea 10.
+let i = 1;
+while (i < 5) {
+    console.log("Este es el ciclo número: " + i);
+    i++;
+}
+
+
+// Bloque for
 
 for(let i = 1; i<=10; i++){
 
