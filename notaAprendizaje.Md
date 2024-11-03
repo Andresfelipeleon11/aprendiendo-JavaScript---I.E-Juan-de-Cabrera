@@ -1,7 +1,7 @@
 
 # Fundamentos de Programación con JavaScript
 
-<img src ="./imagenes/programacion.jpeg" width="200" alt="programacion_fundamentos">
+<img src ="./imagenes/programacion.jpeg" width="400" alt="programacion_fundamentos">
 
 ## ¿Qué es la Programación?
 
@@ -19,7 +19,7 @@ Aprender a programar es esencial porque nos proporciona herramientas poderosas p
 
 <img src ="./imagenes/JavaScript-logo.png" width="250" height="250" alt="Javascript">
 
-JavaScript es un lenguaje de programación ampliamente utilizado para crear sitios web interactivos y dinámicos. Es el "cerebro" detrás de muchas funciones en una página web, como cambios de color de botones al hacer clic, validación de formularios y gráficos en tiempo real. Aunque se asocia comúnmente con el desarrollo web, JavaScript también se utiliza en el desarrollo de aplicaciones móviles, de escritorio e incluso en el control de dispositivos como drones o robots.
+<b>JavaScript</b> es un lenguaje de programación ampliamente utilizado para crear sitios web interactivos y dinámicos. Es el "cerebro" detrás de muchas funciones en una página web, como cambios de color de botones al hacer clic, validación de formularios y gráficos en tiempo real. Aunque se asocia comúnmente con el desarrollo web, JavaScript también se utiliza en el desarrollo de aplicaciones móviles, de escritorio e incluso en el control de dispositivos como drones o robots.
 
 ## Cómo Interactuar con la Consola de JavaScript
 
