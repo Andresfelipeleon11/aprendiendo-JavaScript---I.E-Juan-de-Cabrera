@@ -1,7 +1,7 @@
 
 # Fundamentos de Programación con JavaScript
 
-![programacion_habilidad](./imagenes/programacion.jpg)
+<img src ="./imagenes/programacion.jpg" width="400" height="400" alt="programacion_habilidad">
 
 ## ¿Qué es la Programación?
 
@@ -9,21 +9,21 @@ La programación es el proceso de crear instrucciones detalladas que indican a u
 
 Programar implica resolver problemas de manera eficiente, traduciendo ideas en código que la computadora puede ejecutar. La programación no es solo técnica; también es un proceso creativo. Nos permite construir desde una simple calculadora hasta aplicaciones complejas, juegos y programas que manejan datos, impactando así nuestra vida cotidiana.
 
-## ¿Por qué aprender a programar, aunque no tengamos muchos recursos?
+## ¿Por qué es Importante la Programación?
 
 Aprender a programar es esencial porque nos proporciona herramientas poderosas para resolver problemas en cualquier contexto. Comprender cómo funcionan las aplicaciones y sistemas que utilizamos diariamente nos ayuda a adaptarnos a un mundo tecnológico en constante evolución. Además, la programación fomenta el desarrollo del pensamiento lógico y las habilidades de resolución de problemas, que son valiosas en cualquier área de estudio o trabajo.
 
-![animacion_pensando](./imagenes/pensandoAnimado.jpg)
+<img src ="./imagenes/pensandoAnimado.jpg" alt="animacion_pensando" width="400" height="400">
 
 ## ¿Qué es JavaScript?
 
-![Javascript](./imagenes/JavaScript-logo.png)
+<img src ="./imagenes/JavaScript-logo.png" width="250" height="250" alt="Javascript">
 
 JavaScript es un lenguaje de programación ampliamente utilizado para crear sitios web interactivos y dinámicos. Es el "cerebro" detrás de muchas funciones en una página web, como cambios de color de botones al hacer clic, validación de formularios y gráficos en tiempo real. Aunque se asocia comúnmente con el desarrollo web, JavaScript también se utiliza en el desarrollo de aplicaciones móviles, de escritorio e incluso en el control de dispositivos como drones o robots.
 
 ## Cómo Interactuar con la Consola de JavaScript
 
-![Consola Javascript Chrome](./imagenes/InteraccionConsola.png)
+<img src ="./imagenes/InteraccionConsola.png" alt="Consola Javascript Chrome">
 
 ### Guía para abrir la consola de desarrolladores y escribir código en JavaScript
 
@@ -32,7 +32,7 @@ JavaScript es un lenguaje de programación ampliamente utilizado para crear siti
 ![navegadores_preferencia](./imagenes/navegadores.png)
 
 2. **Accede a la siguiente URL:** `about:blank`  
-   Esto te dará un espacio en blanco para escribir tu código.
+   <p>Esto te dará un espacio en blanco para escribir tu código.</p>
 
 ![about_blank_sitio](./imagenes/about_blank.png)
 
